@@ -1,0 +1,15 @@
+C:\visual_projetos\Exercicio1006\bin\Debug\net6.0\Exercicio1006.exe
+C:\visual_projetos\Exercicio1006\bin\Debug\net6.0\Exercicio1006.deps.json
+C:\visual_projetos\Exercicio1006\bin\Debug\net6.0\Exercicio1006.runtimeconfig.json
+C:\visual_projetos\Exercicio1006\bin\Debug\net6.0\Exercicio1006.dll
+C:\visual_projetos\Exercicio1006\bin\Debug\net6.0\Exercicio1006.pdb
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.csproj.AssemblyReference.cache
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.AssemblyInfoInputs.cache
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.AssemblyInfo.cs
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.csproj.CoreCompileInputs.cache
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.dll
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\refint\Exercicio1006.dll
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.pdb
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\Exercicio1006.genruntimeconfig.cache
+C:\visual_projetos\Exercicio1006\obj\Debug\net6.0\ref\Exercicio1006.dll
