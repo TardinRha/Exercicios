@@ -19,5 +19,4 @@ using System.Globalization;
     Console.WriteLine("Number = " + IdFuncionario);
     Console.WriteLine("Salary = U$ " + Salario.ToString("F2", CultureInfo.InvariantCulture));
     Console.ReadLine();
-
 }
