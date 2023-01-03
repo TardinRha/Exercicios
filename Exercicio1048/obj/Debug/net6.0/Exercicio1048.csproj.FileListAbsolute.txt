@@ -1,0 +1,15 @@
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\bin\Debug\net6.0\Exercicio1048.exe
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\bin\Debug\net6.0\Exercicio1048.deps.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\bin\Debug\net6.0\Exercicio1048.runtimeconfig.json
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\bin\Debug\net6.0\Exercicio1048.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\bin\Debug\net6.0\Exercicio1048.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.AssemblyInfoInputs.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.AssemblyInfo.cs
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\refint\Exercicio1048.dll
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.pdb
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\Exercicio1048.genruntimeconfig.cache
+C:\Users\Usuário\OneDrive\Área de Trabalho\Repositório\Exercicio1048\obj\Debug\net6.0\ref\Exercicio1048.dll
