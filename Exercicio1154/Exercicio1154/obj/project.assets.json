@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RidleyOffice\\Desktop\\Nova pasta\\Exercicio1154\\Exercicio1154\\Exercicio1154.csproj",
+      "projectUniqueName": "C:\\Users\\RidleyOffice\\Desktop\\Nova pasta\\Exercicios\\Exercicio1154\\Exercicio1154\\Exercicio1154.csproj",
       "projectName": "Exercicio1154",
-      "projectPath": "C:\\Users\\RidleyOffice\\Desktop\\Nova pasta\\Exercicio1154\\Exercicio1154\\Exercicio1154.csproj",
+      "projectPath": "C:\\Users\\RidleyOffice\\Desktop\\Nova pasta\\Exercicios\\Exercicio1154\\Exercicio1154\\Exercicio1154.csproj",
       "packagesPath": "C:\\Users\\RidleyOffice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RidleyOffice\\Desktop\\Nova pasta\\Exercicio1154\\Exercicio1154\\obj\\",
+      "outputPath": "C:\\Users\\RidleyOffice\\Desktop\\Nova pasta\\Exercicios\\Exercicio1154\\Exercicio1154\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RidleyOffice\\AppData\\Roaming\\NuGet\\NuGet.Config",
