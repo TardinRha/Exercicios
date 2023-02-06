@@ -1,0 +1,15 @@
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\bin\Debug\net6.0\Exercicio1080.exe
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\bin\Debug\net6.0\Exercicio1080.deps.json
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\bin\Debug\net6.0\Exercicio1080.runtimeconfig.json
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\bin\Debug\net6.0\Exercicio1080.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\bin\Debug\net6.0\Exercicio1080.pdb
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.csproj.AssemblyReference.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.AssemblyInfoInputs.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.AssemblyInfo.cs
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.csproj.CoreCompileInputs.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\refint\Exercicio1080.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.pdb
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\Exercicio1080.genruntimeconfig.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1080\Exercicio1080\obj\Debug\net6.0\ref\Exercicio1080.dll
