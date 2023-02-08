@@ -1,0 +1,15 @@
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\bin\Debug\net6.0\Exercicio1072.exe
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\bin\Debug\net6.0\Exercicio1072.deps.json
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\bin\Debug\net6.0\Exercicio1072.runtimeconfig.json
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\bin\Debug\net6.0\Exercicio1072.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\bin\Debug\net6.0\Exercicio1072.pdb
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.csproj.AssemblyReference.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.AssemblyInfoInputs.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.AssemblyInfo.cs
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.csproj.CoreCompileInputs.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\refint\Exercicio1072.dll
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.pdb
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\Exercicio1072.genruntimeconfig.cache
+C:\Users\RidleyOffice\Desktop\Nova pasta\Exercicio1072\Exercicio1072\obj\Debug\net6.0\ref\Exercicio1072.dll
